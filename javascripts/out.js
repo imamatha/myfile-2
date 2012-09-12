@@ -1,6 +1,5 @@
 <html>
 <body>
-<b>name is:</b>
-${param.username}
+<b>name is:Mamatha</b>
 </body>
 </html>
