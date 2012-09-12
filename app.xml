@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <Module>
-    <ModulePrefs title="Link To Applications"
+    <ModulePrefs title="Form"
                 author="Mamatha"
            description="java script">
         <Link rel="Icon" href="group-icon.png"/>
