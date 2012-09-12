@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Module>
+    <ModulePrefs title="Link To Applications"
+                author="Mamatha"
+           description="java script">
+        <Link rel="Icon" href="group-icon.png"/>
+        <Require feature="dynamic-height"/>
+        <Require feature="jive-core-v2"/>
+        <Require feature="jquery-1.4.2"/>
+        <Require feature="minimessage"/>
+        <Require feature="osapi"/>
+        <Require feature="views"/>
+    </ModulePrefs>
+    <Content view="home," type="jsp" href="param.jsp"/>
+     <Content view="canvas," type="jsp" href="output.jsp"/>
+</Module>
