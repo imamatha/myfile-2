@@ -1,3 +1,4 @@
+<%@ page isELIgnored="true" %>
 <html>
 <body>
 <b>name is:</b>
