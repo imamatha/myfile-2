@@ -12,6 +12,5 @@
         <Require feature="osapi"/>
         <Require feature="views"/>
     </ModulePrefs>
-    <Content view="home," type="jsp" href="param.jsp"/>
-     <Content view="canvas," type="jsp" href="output.jsp"/>
+    <Content view="home,canvas" type="jsp" href="param.jsp"/>
 </Module>
